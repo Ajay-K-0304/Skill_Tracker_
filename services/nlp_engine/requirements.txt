@@ -1,0 +1,15 @@
+# requirements.txt — NLP Engine Module (Member 2)
+# -----------------------------------------------
+# Pin exact versions to ensure reproducible installs across team members.
+# Install with: pip install -r requirements.txt
+
+# NLP
+spacy==3.7.5
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# spaCy English model (downloaded separately via CLI):
+#   python -m spacy download en_core_web_sm
+#   python -m spacy download en_core_web_md   (optional, higher accuracy)

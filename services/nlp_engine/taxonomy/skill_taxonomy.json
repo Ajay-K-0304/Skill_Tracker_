@@ -1,0 +1,482 @@
+[
+  {
+    "id": "t-001",
+    "canonical_name": "Python",
+    "category": "Language",
+    "aliases": ["python3", "Python 3", "Python3", "py", "python 3.x", "Python 3.x", "CPython"]
+  },
+  {
+    "id": "t-002",
+    "canonical_name": "JavaScript",
+    "category": "Language",
+    "aliases": ["JS", "Javascript", "java script", "es6", "ES6", "ECMAScript", "ecmascript"]
+  },
+  {
+    "id": "t-003",
+    "canonical_name": "TypeScript",
+    "category": "Language",
+    "aliases": ["TS", "Typescript", "type script", "ts"]
+  },
+  {
+    "id": "t-004",
+    "canonical_name": "Java",
+    "category": "Language",
+    "aliases": ["java8", "Java 8", "Java 11", "java11", "Java 17", "java17", "Core Java", "core java"]
+  },
+  {
+    "id": "t-005",
+    "canonical_name": "C++",
+    "category": "Language",
+    "aliases": ["cpp", "C Plus Plus", "cplusplus", "c plus plus"]
+  },
+  {
+    "id": "t-006",
+    "canonical_name": "C#",
+    "category": "Language",
+    "aliases": ["csharp", "C Sharp", "c sharp", "dotnet-csharp"]
+  },
+  {
+    "id": "t-007",
+    "canonical_name": "Go",
+    "category": "Language",
+    "aliases": ["Golang", "golang", "go lang", "Go lang"]
+  },
+  {
+    "id": "t-008",
+    "canonical_name": "Rust",
+    "category": "Language",
+    "aliases": ["rust-lang", "Rust Lang"]
+  },
+  {
+    "id": "t-009",
+    "canonical_name": "Ruby",
+    "category": "Language",
+    "aliases": ["ruby on rails", "Rails", "RoR", "ror"]
+  },
+  {
+    "id": "t-010",
+    "canonical_name": "PHP",
+    "category": "Language",
+    "aliases": ["php7", "PHP 7", "php8", "PHP 8", "php 7", "php 8"]
+  },
+  {
+    "id": "t-011",
+    "canonical_name": "Swift",
+    "category": "Language",
+    "aliases": ["swift-lang", "Swift Language"]
+  },
+  {
+    "id": "t-012",
+    "canonical_name": "Kotlin",
+    "category": "Language",
+    "aliases": ["kotlin-jvm", "Kotlin JVM"]
+  },
+  {
+    "id": "t-013",
+    "canonical_name": "Scala",
+    "category": "Language",
+    "aliases": ["scala-lang", "Scala Language"]
+  },
+  {
+    "id": "t-014",
+    "canonical_name": "R",
+    "category": "Language",
+    "aliases": ["R Language", "R lang", "rlang", "R programming"]
+  },
+  {
+    "id": "t-015",
+    "canonical_name": "Bash",
+    "category": "Language",
+    "aliases": ["shell scripting", "Shell Script", "bash scripting", "sh", "zsh", "Shell"]
+  },
+  {
+    "id": "t-016",
+    "canonical_name": "SQL",
+    "category": "Language",
+    "aliases": ["Structured Query Language", "sql queries", "TSQL", "T-SQL", "PL/SQL", "PLSQL"]
+  },
+  {
+    "id": "t-101",
+    "canonical_name": "React",
+    "category": "Frontend",
+    "aliases": ["React.js", "ReactJS", "react-js", "reactjs", "React JS", "React.JS"]
+  },
+  {
+    "id": "t-102",
+    "canonical_name": "Angular",
+    "category": "Frontend",
+    "aliases": ["AngularJS", "Angular.js", "Angular 2+", "Angular2", "angular-cli", "Angular CLI"]
+  },
+  {
+    "id": "t-103",
+    "canonical_name": "Vue.js",
+    "category": "Frontend",
+    "aliases": ["Vue", "VueJS", "vue-js", "Vue JS", "Vuejs", "Vue3"]
+  },
+  {
+    "id": "t-104",
+    "canonical_name": "Next.js",
+    "category": "Frontend",
+    "aliases": ["NextJS", "Next JS", "next-js", "Nextjs"]
+  },
+  {
+    "id": "t-105",
+    "canonical_name": "HTML",
+    "category": "Frontend",
+    "aliases": ["HTML5", "html5", "Hypertext Markup Language"]
+  },
+  {
+    "id": "t-106",
+    "canonical_name": "CSS",
+    "category": "Frontend",
+    "aliases": ["CSS3", "css3", "Cascading Style Sheets", "stylesheet"]
+  },
+  {
+    "id": "t-107",
+    "canonical_name": "Tailwind CSS",
+    "category": "Frontend",
+    "aliases": ["TailwindCSS", "tailwind-css", "tailwindcss", "Tailwind"]
+  },
+  {
+    "id": "t-108",
+    "canonical_name": "Bootstrap",
+    "category": "Frontend",
+    "aliases": ["Bootstrap CSS", "Bootstrap 5", "bootstrap5", "Twitter Bootstrap"]
+  },
+  {
+    "id": "t-109",
+    "canonical_name": "Svelte",
+    "category": "Frontend",
+    "aliases": ["SvelteKit", "svelte-kit", "Svelte Kit"]
+  },
+  {
+    "id": "t-110",
+    "canonical_name": "Redux",
+    "category": "Frontend",
+    "aliases": ["Redux Toolkit", "react-redux", "Redux.js"]
+  },
+  {
+    "id": "t-201",
+    "canonical_name": "FastAPI",
+    "category": "Backend",
+    "aliases": ["fast-api", "Fast API", "fastapi-python"]
+  },
+  {
+    "id": "t-202",
+    "canonical_name": "Django",
+    "category": "Backend",
+    "aliases": ["django-rest-framework", "DRF", "Django REST", "Django REST Framework", "django rest framework"]
+  },
+  {
+    "id": "t-203",
+    "canonical_name": "Flask",
+    "category": "Backend",
+    "aliases": ["flask-python", "Flask API", "flask api"]
+  },
+  {
+    "id": "t-204",
+    "canonical_name": "Node.js",
+    "category": "Backend",
+    "aliases": ["NodeJS", "Node JS", "node-js", "nodejs", "Node.JS"]
+  },
+  {
+    "id": "t-205",
+    "canonical_name": "Express.js",
+    "category": "Backend",
+    "aliases": ["ExpressJS", "Express JS", "express-js", "expressjs", "Express"]
+  },
+  {
+    "id": "t-206",
+    "canonical_name": "Spring Boot",
+    "category": "Backend",
+    "aliases": ["SpringBoot", "spring-boot", "Spring Framework", "spring framework"]
+  },
+  {
+    "id": "t-207",
+    "canonical_name": "ASP.NET",
+    "category": "Backend",
+    "aliases": ["ASP.NET Core", "asp.net core", "aspnet", "ASP NET", ".NET Core", "dotnet-core"]
+  },
+  {
+    "id": "t-208",
+    "canonical_name": "NestJS",
+    "category": "Backend",
+    "aliases": ["Nest.js", "nest-js", "Nest JS"]
+  },
+  {
+    "id": "t-209",
+    "canonical_name": "GraphQL",
+    "category": "Backend",
+    "aliases": ["graph-ql", "Graph QL", "graphql-api"]
+  },
+  {
+    "id": "t-210",
+    "canonical_name": "REST API",
+    "category": "Backend",
+    "aliases": ["RESTful API", "REST APIs", "RESTful", "Restful APIs", "restful", "REST", "HTTP API"]
+  },
+  {
+    "id": "t-211",
+    "canonical_name": "gRPC",
+    "category": "Backend",
+    "aliases": ["grpc", "google rpc", "Protocol Buffers", "protobuf"]
+  },
+  {
+    "id": "t-301",
+    "canonical_name": "PostgreSQL",
+    "category": "Database",
+    "aliases": ["Postgres", "postgres", "psql", "PostgresSQL", "pg", "postgresql"]
+  },
+  {
+    "id": "t-302",
+    "canonical_name": "MySQL",
+    "category": "Database",
+    "aliases": ["mysql-server", "MySQL DB", "MySQL 8"]
+  },
+  {
+    "id": "t-303",
+    "canonical_name": "MongoDB",
+    "category": "Database",
+    "aliases": ["Mongo", "mongo", "MongoDB Atlas", "mongo-db"]
+  },
+  {
+    "id": "t-304",
+    "canonical_name": "Redis",
+    "category": "Database",
+    "aliases": ["redis-cache", "Redis Cache", "Redis DB"]
+  },
+  {
+    "id": "t-305",
+    "canonical_name": "SQLite",
+    "category": "Database",
+    "aliases": ["sqlite3", "SQLite3", "sql-lite"]
+  },
+  {
+    "id": "t-306",
+    "canonical_name": "Elasticsearch",
+    "category": "Database",
+    "aliases": ["ElasticSearch", "elastic search", "ELK Stack", "Elastic"]
+  },
+  {
+    "id": "t-307",
+    "canonical_name": "Cassandra",
+    "category": "Database",
+    "aliases": ["Apache Cassandra", "apache-cassandra", "cassandra-db"]
+  },
+  {
+    "id": "t-308",
+    "canonical_name": "DynamoDB",
+    "category": "Database",
+    "aliases": ["Amazon DynamoDB", "aws-dynamodb", "dynamo-db"]
+  },
+  {
+    "id": "t-309",
+    "canonical_name": "pgvector",
+    "category": "Database",
+    "aliases": ["pg-vector", "postgres vector", "PostgreSQL vector", "vector database"]
+  },
+  {
+    "id": "t-401",
+    "canonical_name": "Docker",
+    "category": "DevOps",
+    "aliases": ["docker-container", "Docker Container", "Dockerfile", "docker-compose", "Docker Compose", "containerization"]
+  },
+  {
+    "id": "t-402",
+    "canonical_name": "Kubernetes",
+    "category": "DevOps",
+    "aliases": ["K8s", "k8s", "kubernetes-orchestration", "Kube", "kubectl"]
+  },
+  {
+    "id": "t-403",
+    "canonical_name": "CI/CD",
+    "category": "DevOps",
+    "aliases": ["continuous integration", "continuous deployment", "CI CD", "CICD", "continuous delivery"]
+  },
+  {
+    "id": "t-404",
+    "canonical_name": "Jenkins",
+    "category": "DevOps",
+    "aliases": ["jenkins-ci", "Jenkins CI", "Jenkins Pipeline"]
+  },
+  {
+    "id": "t-405",
+    "canonical_name": "GitHub Actions",
+    "category": "DevOps",
+    "aliases": ["github-actions", "GH Actions", "GitHub CI"]
+  },
+  {
+    "id": "t-406",
+    "canonical_name": "Terraform",
+    "category": "DevOps",
+    "aliases": ["terraform-iac", "IaC", "infrastructure as code", "HashiCorp Terraform"]
+  },
+  {
+    "id": "t-407",
+    "canonical_name": "Ansible",
+    "category": "DevOps",
+    "aliases": ["ansible-playbook", "Ansible Playbook", "configuration management"]
+  },
+  {
+    "id": "t-408",
+    "canonical_name": "Linux",
+    "category": "DevOps",
+    "aliases": ["Ubuntu", "ubuntu", "CentOS", "centos", "Debian", "debian", "Unix", "unix"]
+  },
+  {
+    "id": "t-409",
+    "canonical_name": "Git",
+    "category": "DevOps",
+    "aliases": ["git-version-control", "version control", "GitHub", "gitlab", "GitLab", "Bitbucket"]
+  },
+  {
+    "id": "t-501",
+    "canonical_name": "AWS",
+    "category": "Cloud",
+    "aliases": ["Amazon Web Services", "amazon web services", "Amazon AWS", "aws-cloud", "EC2", "S3", "AWS Lambda", "Lambda"]
+  },
+  {
+    "id": "t-502",
+    "canonical_name": "Azure",
+    "category": "Cloud",
+    "aliases": ["Microsoft Azure", "microsoft azure", "azure-cloud", "Azure Cloud"]
+  },
+  {
+    "id": "t-503",
+    "canonical_name": "GCP",
+    "category": "Cloud",
+    "aliases": ["Google Cloud", "google cloud", "Google Cloud Platform", "google cloud platform", "Google Cloud Services"]
+  },
+  {
+    "id": "t-601",
+    "canonical_name": "TensorFlow",
+    "category": "Machine Learning",
+    "aliases": ["tensorflow", "TF", "TensorFlow 2", "tensorflow2"]
+  },
+  {
+    "id": "t-602",
+    "canonical_name": "PyTorch",
+    "category": "Machine Learning",
+    "aliases": ["pytorch", "torch", "PyTorch Lightning"]
+  },
+  {
+    "id": "t-603",
+    "canonical_name": "scikit-learn",
+    "category": "Machine Learning",
+    "aliases": ["sklearn", "scikit learn", "Scikit-Learn", "Scikit Learn", "scikit_learn"]
+  },
+  {
+    "id": "t-604",
+    "canonical_name": "Pandas",
+    "category": "Machine Learning",
+    "aliases": ["pandas", "pandas-python", "Python Pandas"]
+  },
+  {
+    "id": "t-605",
+    "canonical_name": "NumPy",
+    "category": "Machine Learning",
+    "aliases": ["numpy", "Numpy", "numerical python", "num-py"]
+  },
+  {
+    "id": "t-606",
+    "canonical_name": "Keras",
+    "category": "Machine Learning",
+    "aliases": ["keras-tensorflow", "Keras API"]
+  },
+  {
+    "id": "t-607",
+    "canonical_name": "Hugging Face",
+    "category": "Machine Learning",
+    "aliases": ["HuggingFace", "huggingface", "transformers", "HF Transformers", "hugging-face"]
+  },
+  {
+    "id": "t-608",
+    "canonical_name": "OpenCV",
+    "category": "Machine Learning",
+    "aliases": ["opencv-python", "cv2", "Open Source Computer Vision", "computer vision"]
+  },
+  {
+    "id": "t-609",
+    "canonical_name": "Prophet",
+    "category": "Machine Learning",
+    "aliases": ["Facebook Prophet", "Meta Prophet", "fbprophet", "fb-prophet", "time series forecasting"]
+  },
+  {
+    "id": "t-610",
+    "canonical_name": "MLflow",
+    "category": "Machine Learning",
+    "aliases": ["ml-flow", "ML Flow", "mlflow-tracking"]
+  },
+  {
+    "id": "t-701",
+    "canonical_name": "spaCy",
+    "category": "NLP",
+    "aliases": ["spacy", "spacy-nlp", "spaCy NLP", "spacy3"]
+  },
+  {
+    "id": "t-702",
+    "canonical_name": "NLTK",
+    "category": "NLP",
+    "aliases": ["Natural Language Toolkit", "natural language toolkit", "nltk-python"]
+  },
+  {
+    "id": "t-703",
+    "canonical_name": "LangChain",
+    "category": "NLP",
+    "aliases": ["langchain", "lang-chain", "LangChain AI"]
+  },
+  {
+    "id": "t-704",
+    "canonical_name": "LangGraph",
+    "category": "NLP",
+    "aliases": ["langgraph", "lang-graph", "LangGraph AI"]
+  },
+  {
+    "id": "t-705",
+    "canonical_name": "OpenAI",
+    "category": "NLP",
+    "aliases": ["openai-api", "OpenAI API", "GPT", "GPT-4", "GPT4", "ChatGPT", "gpt-4", "chatgpt"]
+  },
+  {
+    "id": "t-801",
+    "canonical_name": "Kafka",
+    "category": "Data Engineering",
+    "aliases": ["Apache Kafka", "apache-kafka", "kafka-streaming", "Kafka Streams"]
+  },
+  {
+    "id": "t-802",
+    "canonical_name": "Spark",
+    "category": "Data Engineering",
+    "aliases": ["Apache Spark", "apache-spark", "PySpark", "pyspark", "Spark SQL"]
+  },
+  {
+    "id": "t-803",
+    "canonical_name": "Airflow",
+    "category": "Data Engineering",
+    "aliases": ["Apache Airflow", "apache-airflow", "airflow-dag", "Data Pipeline"]
+  },
+  {
+    "id": "t-804",
+    "canonical_name": "dbt",
+    "category": "Data Engineering",
+    "aliases": ["data build tool", "dbt-core", "DBT", "dbt Core"]
+  },
+  {
+    "id": "t-901",
+    "canonical_name": "Microservices",
+    "category": "Architecture",
+    "aliases": ["micro-services", "microservice architecture", "Microservice Architecture", "service-oriented", "SOA"]
+  },
+  {
+    "id": "t-902",
+    "canonical_name": "System Design",
+    "category": "Architecture",
+    "aliases": ["system design interview", "distributed systems", "Distributed Systems", "high level design", "HLD"]
+  },
+  {
+    "id": "t-903",
+    "canonical_name": "Agile",
+    "category": "Methodology",
+    "aliases": ["agile methodology", "Scrum", "scrum", "Kanban", "kanban", "agile scrum"]
+  }
+]
