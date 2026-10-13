@@ -1,0 +1,86 @@
+[
+  {
+    "job_id": "job-101",
+    "title": "Senior Backend Engineer (Python & Cloud)",
+    "posting_date": "2026-10-01",
+    "raw_description": "<div class=\"job-desc\"><h2>About the Role</h2><p>We are seeking a <b>Senior Backend Engineer</b> to scale our cloud services.</p><h3>Requirements:</h3><ul><li>5+ years of experience with <b>Python 3</b> and asynchronous frameworks like <i>FastAPI</i>.</li><li>Strong background in database design with <b>PostgreSQL</b> and caching with <b>Redis</b>.</li><li>Hands-on containerization experience using <code>Docker</code> and orchestrating via <b>Kubernetes</b>.</li></ul><p>Bonus: Knowledge of microservices architecture. Contact us at jobs@techscale.io or visit https://techscale.io/careers.<br/>===========================</p></div>",
+    "expected_skills": ["Docker", "FastAPI", "Kubernetes", "Microservices", "PostgreSQL", "Python", "Redis"]
+  },
+  {
+    "job_id": "job-102",
+    "title": "Staff Frontend React Developer",
+    "posting_date": "2026-10-02",
+    "raw_description": "<div><h1>Frontend Lead</h1><p>Join our modern web team building next-generation user interfaces.</p><br/>--> Deep mastery of <b>React.js</b> (or ReactJS) and <b>TypeScript</b> (TS).<br/>--> Experience with SSR using <b>Next.js</b> and state management with <b>Redux</b>.<br/>--> Utility-first styling with <b>Tailwind CSS</b> and modern <b>HTML</b> & <b>CSS</b>.<br/>Questions? Mail hr-recruiting@webcraft.com</div>",
+    "expected_skills": ["CSS", "HTML", "Next.js", "React", "Redux", "Tailwind CSS", "TypeScript"]
+  },
+  {
+    "job_id": "job-103",
+    "title": "Cloud DevOps & Platform Engineer",
+    "posting_date": "2026-10-03",
+    "raw_description": "<p>Looking for a DevOps engineer to automate our infrastructure.</p><ul><li>Extensive hands-on infrastructure-as-code using <b>Terraform</b> on <b>AWS</b>.</li><li>Manage continuous delivery via <b>CI/CD</b> pipelines (GitHub Actions).</li><li>Strong knowledge of <b>Docker Compose</b> and <b>Linux</b> command line.</li><li>Version control with <b>Git</b>.</li></ul>",
+    "expected_skills": ["AWS", "CI/CD", "Docker", "Git", "GitHub Actions", "Linux", "Terraform"]
+  },
+  {
+    "job_id": "job-104",
+    "title": "Machine Learning / AI Research Engineer",
+    "posting_date": "2026-10-04",
+    "raw_description": "<h3>ML Specialist</h3><p>Develop cutting-edge predictive models.</p>• Must be proficient in <b>Python</b> with deep learning frameworks like <b>PyTorch</b>.<br/>• Data manipulation using <b>Pandas</b> and <b>NumPy</b>.<br/>• Traditional ML models using <b>scikit-learn</b>.<br/>• Model lifecycle tracking with <b>MLflow</b>.",
+    "expected_skills": ["MLflow", "NumPy", "Pandas", "Python", "PyTorch", "scikit-learn"]
+  },
+  {
+    "job_id": "job-105",
+    "title": "Full Stack Engineer (Node & React)",
+    "posting_date": "2026-10-05",
+    "raw_description": "<p>Full Stack builder wanted:</p><ul><li>Backend: <b>Node.js</b> (NodeJS) with <b>Express.js</b> building <b>REST API</b> endpoints.</li><li>Frontend: <b>React</b> components with <b>JavaScript</b>.</li><li>Database: <b>PostgreSQL</b> queries and schema optimization.</li><li>Collaboration via <b>Git</b>.</li></ul>",
+    "expected_skills": ["Express.js", "Git", "JavaScript", "Node.js", "PostgreSQL", "REST API", "React"]
+  },
+  {
+    "job_id": "job-106",
+    "title": "Generative AI & Agentic Workflow Engineer",
+    "posting_date": "2026-10-06",
+    "raw_description": "<div><h1>AI Agent Developer</h1><p>We build automated reasoning systems.</p><p>Must-have skills include: <b>LangChain</b>, <b>LangGraph</b>, and integration with <b>OpenAI</b> models. Backend built on <b>FastAPI</b> in <b>Python</b>, vector storage with <b>pgvector</b>.</p></div>",
+    "expected_skills": ["FastAPI", "LangChain", "LangGraph", "OpenAI", "Python", "pgvector"]
+  },
+  {
+    "job_id": "job-107",
+    "title": "Big Data & Pipeline Engineer",
+    "posting_date": "2026-10-07",
+    "raw_description": "<p>Responsible for ETL pipelines processing millions of daily records.</p><ul><li>Distributed processing with <b>Spark</b> and message broker <b>Kafka</b>.</li><li>Orchestration with Apache <b>Airflow</b>.</li><li>Complex <b>SQL</b> data modeling in <b>PostgreSQL</b>.</li><li>Programming in <b>Python</b>.</li></ul>",
+    "expected_skills": ["Airflow", "Kafka", "PostgreSQL", "Python", "SQL", "Spark"]
+  },
+  {
+    "job_id": "job-108",
+    "title": "Go Microservices Core Engineer",
+    "posting_date": "2026-10-08",
+    "raw_description": "<div><h2>Go Engineer</h2><p>High-throughput backend systems.</p><p>Core stack: <b>Golang</b> (Go), high-performance RPC via <b>gRPC</b>, containerized with <b>Docker</b> into <b>Kubernetes</b> clusters. Following <b>Microservices</b> architectural best practices.</p></div>",
+    "expected_skills": ["Docker", "Go", "Kubernetes", "Microservices", "gRPC"]
+  },
+  {
+    "job_id": "job-109",
+    "title": "Mobile Software Developer",
+    "posting_date": "2026-10-09",
+    "raw_description": "<p>Build native and hybrid mobile experiences.</p><p>Experience with <b>Swift</b> on iOS and <b>Kotlin</b> on Android. Integrating backend services using <b>REST API</b> and <b>GraphQL</b>. Version control using <b>Git</b>.</p>",
+    "expected_skills": ["Git", "GraphQL", "Kotlin", "REST API", "Swift"]
+  },
+  {
+    "job_id": "job-110",
+    "title": "Systems Software Engineer",
+    "posting_date": "2026-10-10",
+    "raw_description": "<p>Low-latency trading and infrastructure engineering.</p><p>Required: <b>C++</b> (cpp) development on <b>Linux</b> OS. Strong understanding of <b>System Design</b> and clean <b>Git</b> workflows.</p>",
+    "expected_skills": ["C++", "Git", "Linux", "System Design"]
+  },
+  {
+    "job_id": "job-111",
+    "title": "Enterprise Java Backend Developer",
+    "posting_date": "2026-10-11",
+    "raw_description": "<div><h2>Java Backend Specialist</h2><p>Enterprise service migration.</p><ul><li>Solid experience in <b>Java 17</b> and the <b>Spring Boot</b> ecosystem.</li><li>Relational databases with <b>MySQL</b>.</li><li>Containerized deployment with <b>Docker</b>.</li><li>Working in an <b>Agile</b> team environment.</li></ul></div>",
+    "expected_skills": ["Agile", "Docker", "Java", "MySQL", "Spring Boot"]
+  },
+  {
+    "job_id": "job-112",
+    "title": "QA Automation & Infrastructure Tester",
+    "posting_date": "2026-10-12",
+    "raw_description": "<p>Automate our test suites across staging and production.</p><p>Write automated test scripts in <b>Python</b>, automation shell scripting using <b>Bash</b> on <b>Linux</b> servers, integrated into <b>CI/CD</b> workflows via <b>Git</b>.</p>",
+    "expected_skills": ["Bash", "CI/CD", "Git", "Linux", "Python"]
+  }
+]
