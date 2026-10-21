@@ -1,0 +1,4 @@
+job_id,title,company,location,date,description
+101,Backend Engineer,TechCorp,Bengaluru,2026-10-01,"<p>Looking for a Python backend dev with FastAPI skills.</p>"
+102,Frontend Developer,WebWorks,Jaipur,2026-10-02,"<ul><li>React.js</li><li>Tailwind</li></ul>"
+101,Backend Engineer,TechCorp,Bengaluru,2026-10-01,"<p>Duplicate entry test.</p>"
