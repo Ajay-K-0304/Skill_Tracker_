@@ -1,0 +1,16 @@
+Course: Distributed Systems & Cloud Computing
+
+Unit 1: Foundations of Distributed Systems
+- Introduction to distributed architectures, RPC, and socket programming
+- Virtualization fundamentals and Linux systems administration
+- Objective: Students will gain hands-on proficiency with Linux command-line tooling
+
+Unit 2: Containerization and Infrastructure
+- Container technologies, Docker, container image building, and multi-stage builds
+- Microservices design patterns and deployment
+- Objective: Ability to containerize backend services using Docker
+
+Unit 3: Service Communication and Protocols
+- Communication models, REST APIs, JSON data exchange
+- Message queues and publish-subscribe patterns
+- Objective: Understanding HTTP RESTful services in cloud backends
